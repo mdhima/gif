@@ -1,12 +1,12 @@
-### PR templated comments
+# PR templated comments
 ## Ticket: #
 
 
 ## Task: what type of task (initial build/QA/Sci-reg feedback)
-# Files:
+### Files:
 
-# PDF (Time stamp for same file names)
+### PDF (Time stamp for same file names)
 
-# Work Front link (with comments #)
+### Work Front link (with comments #)
 
-# PSD file
+### PSD file
