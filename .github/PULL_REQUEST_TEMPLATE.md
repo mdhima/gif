@@ -1,7 +1,7 @@
 ## Ticket: #
 
 
-## Task: what type of task (initial build/QA/Sci-reg feedback):
+## Task - what type of task (initial build/QA/Sci-reg feedback):
 
 
 ## Files:
