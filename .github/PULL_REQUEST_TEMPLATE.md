@@ -1,4 +1,3 @@
-# PR templated comments
 ## Ticket: #
 
 
